@@ -1,0 +1,11 @@
+*~
+*.bak
+*.orig
+
+*.sw[a-z]
+\#*\#
+
+myipaddress
+myipaddress.exe
+allipaddr
+allipaddr.exe
